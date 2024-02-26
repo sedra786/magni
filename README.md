@@ -1,0 +1,2 @@
+# magni
+test net project
